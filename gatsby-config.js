@@ -3,9 +3,9 @@ module.exports = {
     title: `IRS NEWS | UNIVERSAL EQUATIONS`,
     name: `Univeral Equations`,
     siteUrl: `https://www.uequations.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `The Internal Revenue Service is the nation's tax collection agency and administers the Internal Revenue Code enacted by Congress.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `IRS NEWS`,
       maxWidth: 652,
     },
     social: [
